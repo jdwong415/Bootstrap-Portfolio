@@ -86,9 +86,7 @@ a:hover {
 }
 
 .main-container {
-    padding-bottom: 30px;
-    padding-right: 30px;
-    padding-left: 30px;
+    padding: 0 30px 30px 30px;
     margin-bottom: 40px;
 }
 
@@ -106,7 +104,9 @@ a:hover {
 .side-container {
     max-width: 270px;
     float: right;
+    padding-right: 30px;
     padding-bottom: 25px;
+    padding-left: 30px;
     margin-bottom: 48px;
 }
 
